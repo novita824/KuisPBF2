@@ -12,7 +12,7 @@ const Sidebar = ({ children }) => {
           <div className="px-2 py-3 h-screen  bg-[#231942]">
             <ul className="space-y-2 font-medium rounded-xl">
               <li class="menu-title text-[#eee]  text-center text-3xl">
-                <span>Kuis 2</span>
+                <span>QITATRONIK</span>
               </li>
               <div className="divider"></div>
               <li>
